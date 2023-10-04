@@ -1,0 +1,5 @@
+<Grass>
+    <maxQuantity>200</maxQuantity>
+    <maxWeight>1.0</maxWeight>
+    <childQuantity>10</childQuantity>
+</Grass>

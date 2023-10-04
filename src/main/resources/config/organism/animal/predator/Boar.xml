@@ -1,0 +1,8 @@
+<Boar>
+<maxQuantity>50</maxQuantity>
+<childQuantity>1</childQuantity>
+<maxSpeed>2</maxSpeed>
+<maxAge>24</maxAge>
+<maxWeight>400</maxWeight>
+<maxFood>50</maxFood>
+</Boar>

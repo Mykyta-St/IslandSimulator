@@ -1,0 +1,8 @@
+<Rabbit>
+<maxQuantity>150</maxQuantity>
+<childQuantity>4</childQuantity>
+<maxSpeed>2</maxSpeed>
+<maxAge>12</maxAge>
+<maxWeight>8.0</maxWeight>
+<maxFood>0.45</maxFood>
+</Rabbit>

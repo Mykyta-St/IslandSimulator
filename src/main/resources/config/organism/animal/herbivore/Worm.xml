@@ -1,0 +1,8 @@
+<Worm>
+<maxQuantity>1000</maxQuantity>
+<childQuantity>10</childQuantity>
+<maxSpeed>0</maxSpeed>
+<maxAge>6</maxAge>
+<maxWeight>0.01</maxWeight>
+<maxFood>0.001</maxFood>
+</Worm>

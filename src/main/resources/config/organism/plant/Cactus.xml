@@ -1,0 +1,5 @@
+<Cactus>
+    <maxQuantity>200</maxQuantity>
+    <maxWeight>2.0</maxWeight>
+    <childQuantity>10</childQuantity>
+</Cactus>

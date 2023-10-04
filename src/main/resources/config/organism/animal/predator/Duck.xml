@@ -1,0 +1,8 @@
+<Duck>
+<maxQuantity>200</maxQuantity>
+<childQuantity>1</childQuantity>
+<maxSpeed>4</maxSpeed>
+<maxAge>24</maxAge>
+<maxWeight>1.0</maxWeight>
+<maxFood>0.15</maxFood>
+</Duck>

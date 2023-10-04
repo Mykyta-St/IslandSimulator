@@ -1,0 +1,8 @@
+<Wolf>
+<maxQuantity>30</maxQuantity>
+<childQuantity>1</childQuantity>
+<maxSpeed>3</maxSpeed>
+<maxAge>40</maxAge>
+<maxWeight>50.0</maxWeight>
+<maxFood>8.0</maxFood>
+</Wolf>

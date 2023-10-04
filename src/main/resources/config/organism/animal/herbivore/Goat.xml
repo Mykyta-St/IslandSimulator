@@ -1,0 +1,8 @@
+<Goat>
+<maxQuantity>140</maxQuantity>
+<childQuantity>1</childQuantity>
+<maxSpeed>3</maxSpeed>
+<maxAge>24</maxAge>
+<maxWeight>60.0</maxWeight>
+<maxFood>10</maxFood>
+</Goat>

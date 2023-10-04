@@ -1,0 +1,8 @@
+<Fox>
+<maxQuantity>30</maxQuantity>
+<childQuantity>1</childQuantity>
+<maxSpeed>2</maxSpeed>
+<maxAge>36</maxAge>
+<maxWeight>8.0</maxWeight>
+<maxFood>2.0</maxFood>
+</Fox>

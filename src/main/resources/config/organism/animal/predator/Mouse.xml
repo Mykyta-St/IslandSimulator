@@ -1,0 +1,8 @@
+<Mouse>
+<maxQuantity>500</maxQuantity>
+<childQuantity>8</childQuantity>
+<maxSpeed>1</maxSpeed>
+<maxAge>6</maxAge>
+<maxWeight>0.05</maxWeight>
+<maxFood>0.01</maxFood>
+</Mouse>

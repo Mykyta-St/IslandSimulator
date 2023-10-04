@@ -1,0 +1,8 @@
+<Bear>
+<maxQuantity>5</maxQuantity>
+<childQuantity>1</childQuantity>
+<maxSpeed>2</maxSpeed>
+<maxAge>60</maxAge>
+<maxWeight>500.0</maxWeight>
+<maxFood>80.0</maxFood>
+</Bear>

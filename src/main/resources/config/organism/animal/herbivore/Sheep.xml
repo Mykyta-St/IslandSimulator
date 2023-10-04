@@ -1,0 +1,8 @@
+<Sheep>
+<maxQuantity>140</maxQuantity>
+<childQuantity>1</childQuantity>
+<maxSpeed>3</maxSpeed>
+<maxAge>24</maxAge>
+<maxWeight>70.0</maxWeight>
+<maxFood>15</maxFood>
+</Sheep>

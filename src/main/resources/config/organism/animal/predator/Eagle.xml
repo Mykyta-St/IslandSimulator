@@ -1,0 +1,8 @@
+<Eagle>
+<maxQuantity>20</maxQuantity>
+<childQuantity>1</childQuantity>
+<maxSpeed>3</maxSpeed>
+<maxAge>24</maxAge>
+<maxWeight>6.0</maxWeight>
+<maxFood>1.0</maxFood>
+</Eagle>
